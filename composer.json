@@ -1,0 +1,22 @@
+{
+    "name": "jcove/taobao-sdk",
+    "description": "taobao-sdk-PHP-auto_1461588231052-20171015",
+    "keywords": ["taobao", "api", "top", "sdk"],
+    "authors": [
+        {
+            "name": "jcove",
+            "email": "jcove@163.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">= 5.2.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "files": [
+            "TopSdk.php"
+        ]
+    }
+}
